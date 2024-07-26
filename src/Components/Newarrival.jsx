@@ -15,7 +15,7 @@ export const Newarrival = () => {
          <div class="col-sm-4 col-12 p-sm-0 card-banner">
            <div class="card-banner position-relative text-center">
              <a href="#" class="card-thumb">
-               <img decoding="async" src="./images/img/img-1.jpg" alt="img-1" class="img-fluid"/>
+               <img decoding="async" src="app/assets/img-1.jpg" alt="img-1" class="img-fluid"/>
              </a>
              <div class="banner-info text-center">
                 <h2>BRACELETS</h2>
